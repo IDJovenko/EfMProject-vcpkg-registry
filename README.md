@@ -19,3 +19,5 @@ Add the following to your vcpkg.json:
 ```
 
 ## Available packages
+
+* ip-log-filtering — Network log filtering system ([on Github](https://github.com/IDJovenko/network-log-filtering-system/tree/develop))
