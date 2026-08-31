@@ -1,5 +1,9 @@
 {
   "default": {
+    "ip-log-filtering": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "ip_log_filtering": {
       "baseline": "1.0.0",
       "port-version": 0
