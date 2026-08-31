@@ -13,6 +13,7 @@ vcpkg_cmake_install()
 
 vcpkg_cmake_config_fixup(
     PACKAGE_NAME ip_log_filtering
+    CONFIG_PATH "lib/cmake/ip_log_filtering"
 )
 
 file(REMOVE_RECURSE
